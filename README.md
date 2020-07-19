@@ -1,6 +1,6 @@
 # Simple-Chatty-Bot
-Stage 1/4: Hello! What's your name? /n
-  Teach the assistant to introduce itself in the console./n
+Stage 1/4: Hello! What's your name?
+  Teach the assistant to introduce itself in the console.
 Stage 2/4: How old are you?
   Using the knowledge of strings and numbers to make the assistant guess your age.
 Stage 3/4: Let's count!
