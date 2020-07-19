@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems-Check_the_given_numbers_are_different_main" target="11" />
+      <module name="Problems-Check_the_given_numbers_are_different_test" target="11" />
+      <module name="Problems-Check_the_value__1__main" target="11" />
+      <module name="Problems-Check_the_value__1__test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_test" target="11" />
+      <module name="Problems-Leap_year_main" target="11" />
+      <module name="Problems-Leap_year_test" target="11" />
+      <module name="Problems-Reversing_main" target="11" />
+      <module name="Problems-Reversing_test" target="11" />
+      <module name="Problems-Symmetrical_number_main" target="11" />
+      <module name="Problems-Symmetrical_number_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc73daa6-c159-4d89-a59d-1beecdf6cac3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Simple_Chatty_Bot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMcAHzVNqWhRPTj2oMz6QPTxOk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Coffee Machine" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Groundhogs_at_a_party_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Check_a_number_is_positive_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Leap_year_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Symmetrical_number_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Reversing_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc73daa6-c159-4d89-a59d-1beecdf6cac3" name="Default Changelist" comment="" />
+      <created>1584652260424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584652260424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584891641354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="519" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584891641354" />
+    <state x="940" y="162" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1584720199754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="940" y="162" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584720199754" />
+    <state x="795" y="261" key="FileChooserDialogImpl" timestamp="1585482417351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585482417351" />
+    <state width="1469" height="174" key="GridCell.Tab.0.bottom" timestamp="1584998417846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1469" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584998417846" />
+    <state width="1469" height="174" key="GridCell.Tab.0.center" timestamp="1584998417845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1469" height="174" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584998417845" />
+    <state width="1469" height="174" key="GridCell.Tab.0.left" timestamp="1584998417831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1469" height="174" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584998417831" />
+    <state width="1469" height="174" key="GridCell.Tab.0.right" timestamp="1584998417845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1469" height="174" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584998417845" />
+    <state x="552" y="238" key="IDE.errors.dialog" timestamp="1584719945537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="238" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584719945537" />
+    <state x="565" y="137" key="SettingsEditor" timestamp="1584740789742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="137" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584740789742" />
+    <state x="817" y="464" width="870" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584720615986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="464" width="870" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584720615986" />
+    <state x="689" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1584740706332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584740706332" />
+  </component>
+</project>
